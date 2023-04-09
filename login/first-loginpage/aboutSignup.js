@@ -5,7 +5,7 @@ const phone_name = document.getElementById('phone_name');
 const st_num = document.getElementById('st_num');
 
 
-const signup = document.getElementById('signup');
+const signup = document.querySelector('#signup');
 const cancel = document.querySelector('#cancel');
 
 
